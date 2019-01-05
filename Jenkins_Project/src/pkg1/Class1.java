@@ -8,6 +8,7 @@ public class Class1 {
 	public void tc1()
 	{
 		System.out.println("updated test case");
+		System.out.println("giving the fix");
 	}
 	
 }
